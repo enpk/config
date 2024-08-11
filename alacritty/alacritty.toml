@@ -15,5 +15,5 @@ decorations = "buttonless"
 padding = { x = 10, y = 10 }
 
 [env]
-TERM = "screen-256color"
+TERM = "xterm-256color"
 
